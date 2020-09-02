@@ -1,5 +1,5 @@
 PIXI.loader.add('moc', "assets/Cano/Cano.moc3", { xhrType: PIXI.loaders.Resource.XHR_RESPONSE_TYPE.BUFFER })
-PIXI.loader.add('texture', "assets/Tiruteru/texture_00.png")
+PIXI.loader.add('texture', "assets/Cano/texture_00.png")
 //PIXI.loader.add('motion', "assets/Koharu/Koharu.motion3.json", { xhrType: PIXI.loaders.Resource.XHR_RESPONSE_TYPE.JSON });
 PIXI.loader.once('complete', onComplate);
 PIXI.loader.load();
